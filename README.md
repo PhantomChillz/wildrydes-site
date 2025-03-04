@@ -129,4 +129,5 @@ Here is the code used to test the Lambda function:
     "body": "{\"PickupLocation\":{\"Latitude\":47.6174755835663,\"Longitude\":-122.28837066650185}}"
 }
 ```
-
+## Note 
+The application is currently in a non running state with all of its resources deallocated to minimize cloud costs
